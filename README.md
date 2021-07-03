@@ -31,8 +31,8 @@ The project will run in http://localhost:8080/
 This is the screenshot
 
   
-## Screenshots
 
-![App Screenshot]("https://ik.imagekit.io/pqtlhkea61y/movieapp_ilrYE90PG.JPG")
+
+!![alt text]("https://ik.imagekit.io/pqtlhkea61y/movieapp_ilrYE90PG.JPG")
 
   
