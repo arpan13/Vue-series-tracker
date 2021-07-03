@@ -33,6 +33,6 @@ This is the screenshot
   
 
 
-![alt text]("https://ik.imagekit.io/pqtlhkea61y/movieapp_ilrYE90PG.JPG")
+![alt text](https://ik.imagekit.io/pqtlhkea61y/movieapp_ilrYE90PG.JPG)
 
   
