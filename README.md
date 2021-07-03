@@ -33,6 +33,6 @@ This is the screenshot
   
 ## Screenshots
 
-![App Screenshot]("./movieapp.jpg")
+![App Screenshot]("../movieapp.jpg")
 
   
