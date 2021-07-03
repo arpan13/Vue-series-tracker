@@ -1,24 +1,38 @@
-# movieapp
 
-## Project setup
-```
-npm install
-```
+# Series and Movie Tracker
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This a web app made using Vue.js .It  can store series title ,no of season ,streaming patner.
+It stores it in the local storage of your browser.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Deployment
+
+To start this project run
+
+```bash
+  cd into project directory
+```
+After that
+```bash
+  npm install
+```
+and now
+```bash
+  npm run serve
+```
+The project will run in http://localhost:8080/
+
+
+
+  
+## Demo
+
+This is the screenshot
+
+  
+## Screenshots
+
+![App Screenshot]("./movieapp.jpg")
+
+  
