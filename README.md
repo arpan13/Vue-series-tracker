@@ -33,6 +33,6 @@ This is the screenshot
   
 ## Screenshots
 
-![App Screenshot]("../movieapp.jpg")
+![App Screenshot]("https://ik.imagekit.io/pqtlhkea61y/movieapp_ilrYE90PG.JPG")
 
   
